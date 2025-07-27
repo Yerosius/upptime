@@ -18,9 +18,9 @@ status-website:
   introTitle: "1816服务监控探针"
   introMessage: 1816服务监控探针是一款部署在Github上的实时监控探针，通过爬虫每5min访问一次监控网站以确定在线状态。若您无法访问网站，不妨来看看监控探针状态。若服务掉线，请及时联系管理员处理。
   navbar:
-    - title: Status
+    - title: 探针状态
       href: /upptime
-    - title: GitHub
+    - title: GitHub仓库
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
