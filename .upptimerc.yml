@@ -14,12 +14,12 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 监控探针
+  introTitle: "1816服务监控探针"
+  introMessage: 1816服务监控探针是一款部署在Github上的实时监控探针，通过爬虫每5min访问一次监控网站以确定在线状态。若您无法访问网站，不妨来看看监控探针状态。若服务掉线，请及时联系管理员处理。
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
