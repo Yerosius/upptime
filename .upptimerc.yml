@@ -22,10 +22,10 @@ status-website:
 
 i18n:
   activeIncidents: 活动事件
-  allSystemsOperational: 所有系统都可以正常运行
+  allSystemsOperational: 🟩 所有系统都可以正常运行
   incidentReport: "事件 #NUMBER 报告 →"
-  activeIncidentSummary: 在DATE 打开，有 POSTS 个帖子
-  incidentTitle: 事件NUMBER 的详细信息
+  activeIncidentSummary: 在 $DATE 打开，有 $POSTS 个事件
+  incidentTitle: 事件 $NUMBER 的详细信息
   incidentDetails: 事件详细信息
   incidentFixed: 已修复
   incidentOngoing: 正在进行
@@ -33,21 +33,21 @@ i18n:
   incidentClosedAt: 结束于
   incidentSubscribe: 订阅更新
   incidentViewOnGitHub: 在 GitHub 上查看
-  incidentCommentSummary: 由 AUTHOR 在DATE 发布
+  incidentCommentSummary: $AUTHOR 于 $DATE 发布
   incidentBack: ← 返回所有事件
   pastIncidents: 过去的事件
-  pastIncidentsResolved: POSTS 个问题在MINUTES 分钟内得到解决
+  pastIncidentsResolved: $POSTS 个问题在 $MINUTES 分钟内得到解决
   liveStatus: 实时状态
-  overallUptime: "总体正常运行时间： UPTIME"
+  overallUptime: 总体正常运行时间: $UPTIME
   overallUptimeTitle: 总体正常运行时间
-  averageResponseTime: "平均响应时间:TIMEms"
+  averageResponseTime: 平均响应时间:$TIME ms
   averageResponseTimeTitle: 平均响应时间
   sevelDayResponseTime: 7 天响应时间
   responseTimeMs: 响应时间（毫秒）
   ms: 毫秒
   loading: 加载中
   navGitHub: GitHub
-  footer: Yerosius保留所有权利。 Copyright © 2008-2025 Yerosius. All Rights Reserved.
+  footer: Yerosius保留所有权利。 Copyright © $YEAR Yerosius. All Rights Reserved.
   rateLimitExceededTitle: 超出速率限制
   rateLimitExceededIntro: 您已超过一小时内可以执行的请求数，因此您必须等待才能再次访问此网站。或者，您可以添加 GitHub 个人访问令牌以继续使用本网站。
   rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？本网站使用 GitHub API 访问有关我们网站状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，您已经消耗了这些请求。
@@ -65,8 +65,8 @@ i18n:
   errorHome: 转到主页
   pastScheduledMaintenance: 过去的预定维护
   scheduledMaintenance: 定期维护
-  scheduledMaintenanceSummaryStarted: 从 DATE 开始，持续DURATION 分钟
-  scheduledMaintenanceSummaryStarts: 从 DATE 开始，持续DURATION 分钟
+  scheduledMaintenanceSummaryStarted: 从 $DATE 开始，持续 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 从 $DATE 开始，持续 $DURATION 分钟
   startedAt: 开始在
   startsAt: 开始于
   duration: 持续时间
