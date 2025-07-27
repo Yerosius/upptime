@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1508,
-    "timeDay": 1508,
-    "timeWeek": 1508,
-    "timeMonth": 1508,
-    "timeYear": 1508,
+    "time": 1524,
+    "timeDay": 1524,
+    "timeWeek": 1524,
+    "timeMonth": 1524,
+    "timeYear": 1524,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "1816OJ-Hydro-WAF",
-    "url": "https://acm816.cn:446",
-    "icon": "https://icons.duckduckgo.com/ip3/acm816.cn.ico",
-    "slug": "1816-oj-hydro-waf",
-    "status": "down",
-    "uptime": "2.58%",
-    "uptimeDay": "2.58%",
-    "uptimeWeek": "2.58%",
-    "uptimeMonth": "2.58%",
-    "uptimeYear": "2.58%",
-    "time": 1125,
-    "timeDay": 1125,
-    "timeWeek": 1125,
-    "timeMonth": 1125,
-    "timeYear": 1125,
-    "dailyMinutesDown": {
-      "2025-07-27": 2
-    }
   },
   {
     "name": "1816OJ-DOMJudge",
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3562,
-    "timeDay": 3562,
-    "timeWeek": 3562,
-    "timeMonth": 3562,
-    "timeYear": 3562,
+    "time": 3646,
+    "timeDay": 3646,
+    "timeWeek": 3646,
+    "timeMonth": 3646,
+    "timeYear": 3646,
     "dailyMinutesDown": {}
   }
 ]
