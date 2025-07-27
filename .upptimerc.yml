@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: 1816OJ-Hydro
     url: https://acm816.cn
-  - name: 1816OJ-Hydro-WAF
-    url: https://acm816.cn:446
   - name: 1816OJ-DOMJudge
     url: https://acm816.cn:444
     
