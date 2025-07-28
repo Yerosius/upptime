@@ -4,39 +4,35 @@
     "url": "https://acm816.cn",
     "icon": "https://icons.duckduckgo.com/ip3/acm816.cn.ico",
     "slug": "1816-oj-hydro",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1505,
-    "timeDay": 1505,
-    "timeWeek": 1505,
-    "timeMonth": 1505,
-    "timeYear": 1505,
-    "dailyMinutesDown": {
-      "2025-07-27": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1493,
+    "timeDay": 1493,
+    "timeWeek": 1493,
+    "timeMonth": 1493,
+    "timeYear": 1493,
+    "dailyMinutesDown": {}
   },
   {
     "name": "1816OJ-DOMJudge",
     "url": "https://acm816.cn:444",
     "icon": "https://icons.duckduckgo.com/ip3/acm816.cn.ico",
     "slug": "1816-oj-dom-judge",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3708,
-    "timeDay": 3708,
-    "timeWeek": 3708,
-    "timeMonth": 3708,
-    "timeYear": 3708,
-    "dailyMinutesDown": {
-      "2025-07-27": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3666,
+    "timeDay": 3666,
+    "timeWeek": 3666,
+    "timeMonth": 3666,
+    "timeYear": 3666,
+    "dailyMinutesDown": {}
   }
 ]
