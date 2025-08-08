@@ -22,7 +22,7 @@
     "url": "https://acm816.cn:444",
     "icon": "https://icons.duckduckgo.com/ip3/acm816.cn.ico",
     "slug": "1816-oj-dom-judge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 3433,
     "timeMonth": 3570,
     "timeYear": 3570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-08": 0
+    }
   }
 ]
